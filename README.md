@@ -5,7 +5,7 @@
 ### Backend:
 - java
 
-# Goal:
+# 2.Goal:
 - Networking
 - Threads and concurrency
 - deep understand of Java
