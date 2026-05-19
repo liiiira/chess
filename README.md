@@ -1,8 +1,8 @@
 # chess
 ## tech stack
 ### Frontend:
-#### React
-#### Tailwind
+- React
+- Tailwind
 ### Backend:
-#### Drogon 
-#### C++
+- Drogon 
+- C++
