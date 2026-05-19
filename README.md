@@ -1,5 +1,4 @@
-# chess
-## tech stack
+# tech stack
 ### Frontend:
 - React
 - Tailwind
