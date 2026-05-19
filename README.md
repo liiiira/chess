@@ -1,4 +1,4 @@
-# tech stack
+# Tech Stack
 ### Frontend:
 - React
 - Tailwind
