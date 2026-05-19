@@ -1,7 +1,12 @@
-# Tech Stack
+# 1.Tech Stack
 ### Frontend:
 - React
 - Tailwind
 ### Backend:
-- Drogon 
-- C++
+- java
+
+# Goal:
+- Networking
+- Threads and concurrency
+- deep understand of Java
+- OOP patterns
