@@ -4,7 +4,7 @@
 - React
 - Tailwind
 ### Backend:
-- python (fastapi)
+- java
 ## Mobile App:
 - dart
 
